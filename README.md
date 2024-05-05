@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Disha Shetty
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End-Development
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Email:dishashetty546@gmail.com
+- 🌱 I’m currently learning MERN stack & Java.
+  
 
 
 <!---
