@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Disha Shetty</h1>
+<h1 align="center">Hello!! It's me Disha here👋h1>
 <h3 align="center">A passionate learner in the feild of Full-Stack Web Development: Building from Basics to Brilliance</h3>
 
-- 🔭 I’m currently working on **Video Conferencing Application**
+-![image](https://github.com/Dishashetty546/Dishashetty546/assets/139549917/c0cacc1a-9e89-4c74-8686-3a2e7e23cbf7)
+
 
 - 🌱 I’m currently learning **Web development**
 
