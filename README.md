@@ -1,8 +1,8 @@
 <h1 align="center">Hello!! It's me Disha here👋</h1>
-<h3 align="center">A passionate learner in the field of Full-Stack Web Development: Building from Basics to Brilliance</h3>
+<h3 align="center">A passionate learner in the field of Full-Stack Web Development.</h3>
 
 <div style="text-align:center;">
-    <img src="https://github.com/Dishashetty546/Dishashetty546/assets/139549917/c0cacc1a-9e89-4c74-8686-3a2e7e23cbf7" alt="Disha's profile image" style="width:300px; height:auto;">
+    <img src="https://github.com/Dishashetty546/Dishashetty546/assets/https://tse2.mm.bing.net/th?id=OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj&pid=Api&P=0&h=180" alt="Disha's profile image" style="width:300px; height:auto;">
 </div>
 
 - 🌱 I’m currently Enhancing **Web development**
