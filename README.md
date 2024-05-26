@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner in the field of Full-Stack Web Development.</h3>
 
 <div style="text-align:center;">
-    <img src="https://github.com/Dishashetty546/Dishashetty546/assets/https://tse2.mm.bing.net/th?id=OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj&pid=Api&P=0&h=180" alt="Disha's profile image" style="width:300px; height:auto;">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="Disha's profile image" style="width:300px; height:auto;">
 </div>
 
 - 🌱 I’m currently Enhancing **Web development**
