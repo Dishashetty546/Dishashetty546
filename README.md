@@ -10,6 +10,7 @@
 - 📫 How to reach me **dishashetty546@gmail.com**
 - I'm really fascinated by the diverse world of technology, and I'm particularly excited to dive and exploring areas-artificial intelligence and machine learning.
 
+- Fun fact: When I laugh, it's like a mixtape of all the weird noises you’ve never heard!:)
 
 <h3 align="left">Connect with me folks!!</h3>
 <p align="left">
