@@ -5,12 +5,11 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="Disha's profile image" style="width:500px; height:auto;">
 </div>
 
-- 🌱 I’m currently Enhancing **Web development**
+- 🌱 I’m currently Enhancing/Learning **Full Stack web development**.
 
 - 📫 How to reach me **dishashetty546@gmail.com**
-- I'm really fascinated by the diverse world of technology, and I'm particularly excited to dive and exploring areas-artificial intelligence and machine learning.
 
-- Fun fact: When I laugh, it's like a mixtape of all the weird noises you’ve never heard!:)
+-😊Open for **Collaborative Projects, Learn and Grow**:)
 
 <h3 align="left">Connect with me folks!!</h3>
 <p align="left">
